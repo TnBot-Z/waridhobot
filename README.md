@@ -49,4 +49,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ### Donate
-* DANA/PULSA  081289096745
+* DANA/PULSA  089xxxxxxxxx
