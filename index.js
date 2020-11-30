@@ -25,8 +25,8 @@ const BotName = 'Tn Bot-Z 🤖'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/_mr.botz_'; // Nama Instagramlu cok
 const whatsapplu = '0896-6197-6243'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Jam 07.00 Pagi - 09.00 Malam'; // Kapan bot lu aktif
-const grupch1 = 'Belum Ada :)'; // OFFICIAL GRUP LU 1
-const grupch2 = 'Belum Ada :)'; // OFFICIAL GRUP LU 2
+const grupch1 = 'Belum Ada'; // OFFICIAL GRUP LU 1
+const grupch2 = 'Belum Ada'; // OFFICIAL GRUP LU 2
 //
 const
 {
